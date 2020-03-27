@@ -1,4 +1,4 @@
-MAIS202_Final_Project<br/>
+**MAIS202_Final_Project**<br/>
 🌞Pneumonia Detection Webapp<br/>
 
 **1. Prerequisites**<br/>
@@ -11,3 +11,12 @@ save keras_model.h5 in ~/model
 **3. Run the Flask Application**<br/>
 python app.py<br/>
 Go to localhost:5000 from your browser
+
+
+
+**Acknowledgements**
+Dataset<br/>
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+Image Classifier App Template<br/>
+https://github.com/mtobeiyf/keras-flask-deploy-webapp
