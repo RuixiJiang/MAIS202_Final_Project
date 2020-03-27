@@ -14,9 +14,9 @@ Go to localhost:5000 from your browser
 
 
 
-**Acknowledgements**
+**Acknowledgements**<br/>
 Dataset<br/>
-https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia<br/>
 
 Image Classifier App Template<br/>
 https://github.com/mtobeiyf/keras-flask-deploy-webapp
