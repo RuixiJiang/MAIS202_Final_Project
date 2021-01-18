@@ -1,5 +1,4 @@
-**MAIS202_Final_Project**<br/>
-🌞Pneumonia Detection Webapp<br/>
+**🌞Pneumonia Detection Webapp<br/>
 
 **1. Prerequisites**<br/>
 pip install -r requirements.txt
